@@ -1,2 +1,3 @@
 First line of a new file two
 Second line of file two
+third line of file two
